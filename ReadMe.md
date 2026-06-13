@@ -82,6 +82,7 @@ This makes the model interpretable rather than a black box — critical for real
 
 💻 The App
 
+App link: https://dubai-rent-predictor-inbrfcjxscydvmayrapfnt.streamlit.app/
 Built with Streamlit, the app has three tabs:
 
 🔮 Rent Predictor
